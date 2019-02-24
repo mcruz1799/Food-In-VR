@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/matthewcruz/Documents/GAMES/Research Issues in Game Development/Food in VR/Assembly-CSharp-Editor.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
