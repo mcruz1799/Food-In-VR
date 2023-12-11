@@ -20,3 +20,7 @@ I developed the following functionality:
   2) Users could "eat" foods (they would press a button on the controller to initiate a "munch" sound and destroy the objects)
   3) Food would randomly spawn from the sky and fall to the ground
   4) Worked with designers to insert their models into the scene according to their layout
+
+This was my introduction to Unity and programming for Virtual Reality.
+
+I learned about practically applying Object Oriented Programming and creating a robust Software Architecture which I built upon in later projects.
